@@ -2,7 +2,7 @@ _Repositorio personal_
 
 ## AMELIA MENDOZA LÓPEZ 🐸🍄
 
-![Obras que destacan por su tipo de animación y narración](https://github.com/Ame-end/Ame-end/blob/main/Diapositiva1.PNG)
+![Obras que destacan por su tipo de animación y narración](https://github.com/Ame-end/Ame-end/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
 
 
 Actualmente reside en Ixtlán de Juárez, Oaxaca 🌲. Entre sus pasatiempos favoritos se encuentran jugar fútbol, leer, tomarle fotos a la naturaleza, pintar con acuarelas, colorear y descubrir nuevos estilos de animación . Disfruta del contenido multimedia con [gráficos animados visualmente sorprendentes](https://www.youtube.com/watch?v=BMcGfgAo5pU), documentales que hablen sobre historia o naturaleza. Amelia es fanática de la naturaleza y su comportamiento, disfruta tomarse el tiempo para contemplarla, descubriendo gracias a ella una nueva forma de relajación.
