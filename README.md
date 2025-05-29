@@ -24,6 +24,12 @@ Lenguajes de programación:
 
 Entornos de desarrollo:
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Packet%20Tracer-00599C?style=for-the-badge&logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
 
 Tiene en cuenta que la creatividad, la colaboración, adaptabilidad y responsabilidad son ejemplos de actividades blandas que ha llegado a dominar a un nivel más alto de lo esperado, pretendiendo mejorar en cada una de ellas y esperando conseguir más habilidades que pueda ir mejorando constantemente. Considera que tiene logros personales y académicos que no llegaba a asimilar, aprendió a trabajar bajo presión en largos periodos de tiempo, puede llegar a tener una extrema concentración si así se lo permite y conforme ha pasado el tiempo aprendió a ser más ordenada y cuidadosa con cada una de sus decisiones. **Amelia sigue aprendiendo constantemente** y pretende seguir haciéndolo indefinidamente 🌱
