@@ -9,3 +9,6 @@ Actualmente reside en Ixtlán de Juárez, Oaxaca 🌲. Entre sus pasatiempos fav
 
 Considerando que su lenguaje favorito hasta la fecha es C++, esperando mejorar con java y descubrir un nuevo panorama con Python.
 Tiene en cuenta que la creatividad, la colaboración, adaptabilidad y responsabilidad son ejemplos de actividades blandas que ha llegado a dominar a un nivel más alto de lo esperado, pretendiendo mejorar en cada una de ellas y esperando conseguir más habilidades que pueda ir mejorando constantemente. Considera que tiene logros personales y académicos que no llegaba a asimilar, aprendió a trabajar bajo presión en largos periodos de tiempo, puede llegar a tener una extrema concentración si así se lo permite y conforme ha pasado el tiempo aprendió a ser más ordenada y cuidadosa con cada una de sus decisiones. **Amelia sigue aprendiendo constantemente** y pretende seguir haciéndolo indefinidamente 🌱
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
