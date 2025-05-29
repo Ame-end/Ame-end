@@ -1,6 +1,6 @@
 
 
-## AMELIA MENDOZA LÓPEZ 
+## AMELIA MENDOZA LÓPEZ 🌍
 
 ![Obras que destacan por su tipo de animación y narración](https://github.com/Ame-end/Ame-end/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
 
