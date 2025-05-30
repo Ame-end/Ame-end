@@ -1,11 +1,13 @@
 
 
-## AMELIA MENDOZA LÓPEZ 🐯
+## AMELIA MENDOZA LÓPEZ 🚀
 
 ![Obras que destacan por su tipo de animación y narración](https://github.com/Ame-end/Ame-end/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
 
 
-Actualmente reside en 🌲Ixtlán de Juárez🌲, Oaxaca. Entre sus pasatiempos favoritos se encuentran jugar fútbol, leer, nadar, ver películas, tomar fotos de la naturaleza, pintar con acuarelas, colorear y descubrir nuevos estilos de animación. Disfruta del contenido multimedia con [gráficos animados visualmente sorprendentes](https://www.youtube.com/watch?v=BMcGfgAo5pU), documentales que hablen sobre historia o naturaleza. Amelia es fanática de la naturaleza y su comportamiento, disfruta tomarse el tiempo para contemplarla, descubriendo gracias a ella una nueva forma de serenidad.
+Actualmente reside en 🌲Ixtlán de Juárez🌲, Oaxaca. Entre sus pasatiempos favoritos se encuentran prácticar deporte, leer, nadar, ver películas o series en especial cortometrajes de [CalArts](https://calarts.edu/academics/programs-and-degrees/bfa-character-animation), fotografiar la naturaleza, pintar con acuarelas, colorear y descubrir nuevos estilos de animación. Disfruta del contenido multimedia con [gráficos animados visualmente sorprendentes](https://www.youtube.com/watch?v=BMcGfgAo5pU), documentales que hablen sobre historia o naturaleza. 
+
+Amelia es fanática de la naturaleza y su comportamiento, disfruta tomarse el tiempo para contemplarla, descubriendo gracias a ella una nueva forma de **serenidad**🍂.
 
 
 Amelia aún no tiene un lenguaje de programación establecido que sea su favorito, considera que cada uno es importante en un área especifica, esperando mejorar en Dart, descubriendo un nuevo panorama a tráves del diseño en aplicaciones móviles. Actualmente se enfoca en la investigación y aplicación de diseños intuitivos para el usuario. A lo largo de su trayectoria en la Universidad de la Sierra Juárez, ha manejado:
